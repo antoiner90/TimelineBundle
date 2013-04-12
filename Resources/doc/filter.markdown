@@ -1,6 +1,6 @@
 # Filters
 
-Filters will apply modificaiton to collection of actions.
+Filters will apply modificatioon to collection of actions.
 
 This bundle is provided with 2 filters, **DuplicateKey** and **DataHydrator**
 
